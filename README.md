@@ -50,3 +50,14 @@ Unityでゲームを開発するにあたってParticle Effect, VFX, Shaderな�
 レジアイスのモデルは下記のサイトから拝借しました。
 <br>
 https://sketchfab.com/3d-models/regice-a2f9c09d590a4c48975338c01b12cae8
+
+
+## Day5
+#### あれから半年以上経ちました (2025/4/9 作成)
+![image](https://github.com/user-attachments/assets/1ac7b62e-85f7-4eda-8e9c-839d1800943d)
+<br>
+一年ぶりにShaderを触ったら、Albedoという単語でFFのワッカしか思い出せないくらいには忘れてました <br>
+三日坊主の典型例すぎて笑えません<br>
+一年前のDay4を法線ベクトルとか使って実装するくらいまでは思い出しました<br>
+明日はリムライティングとかやろうと思います<br>
+
